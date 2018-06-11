@@ -1,5 +1,7 @@
 [![Join the chat at https://gitter.im/weeveiot/weeveOS](https://badges.gitter.im/weeveiot/weeveOS.svg)](https://gitter.im/weeveiot/weeveOS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
+If you came here for our Ethereum wallet, please check out the temporary branch:
+ethereum_wallet
 
 # weeve_clients
 Weeve platform clients for weeveOS
